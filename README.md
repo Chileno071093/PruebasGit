@@ -1,3 +1,3 @@
 # Notas
 
-Este es un repo de pruebas
+Es un repo inicial de pruebas
